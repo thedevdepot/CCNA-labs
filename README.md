@@ -23,4 +23,7 @@ This repository contains labs and exercises from the David Bombal CCNA course on
 
 ## Notes
 * These labs are primarily for person use.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7a3cb8c8003d39b9e066260028469eb185ceb818
