@@ -23,3 +23,4 @@ This repository contains labs and exercises from the David Bombal CCNA course on
 
 ## Notes
 * These labs are primarily for person use.
+* successfuly completed a lab that pings pcs across a network.
