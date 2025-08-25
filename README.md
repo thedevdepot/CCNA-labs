@@ -20,6 +20,9 @@ This repository contains labs and exercises from the David Bombal CCNA course on
 ## Progress
 * converting binary, hex, base 10
 * subnetting basics
+* duplex and speed
+* password & secret
+* g0/0 & f0/0
 
 ## Notes
 * These labs are primarily for person use.
