@@ -2,6 +2,9 @@
 These are the labs and files for studying for the CCNA
 # CCNA Study Labs
 
+#Day 18 CCNA study Lab
+day 18 ccna lab.png
+
 ## Overview
 This repository contains labs and exercises from the David Bombal CCNA course on Udemy. I'm using these labs to study and prepare for the CCNA certification.
 
